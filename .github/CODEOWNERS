@@ -1,4 +1,10 @@
-# Global owners of this repository are the following : 
+##############################################################
+#
+# List of approvers/reviewers for the Playwright demo
+#
+##############################################################
+
+# These owners will be the default owners for everything in the repo.
 
 @LianeCartmn
 @Netwear7
