@@ -1,0 +1,11 @@
+## NODE MODULES ##
+node_modules/
+
+## PLAYWRIGHT ##
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+## PACKAGE LOCK ##
+package-lock.json
